@@ -9,5 +9,10 @@ just do some learning
 	拉格朗日  
 	LU分解
 
+3.数据处理  
+	混淆矩阵
+
 ## 总结知识  
-1.Algorithm
+1.Algorithm  
+2.机器学习  
+
