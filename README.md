@@ -11,7 +11,8 @@ just do some learning
 
 3.数据处理  
 	混淆矩阵  
-	精确度及召回率计算
+	精确度及召回率计算  
+	波士顿房价预测
 
 ## 总结知识  
 1.Algorithm  
